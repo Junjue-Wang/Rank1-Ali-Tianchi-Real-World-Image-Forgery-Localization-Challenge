@@ -2,7 +2,7 @@
 
 **“审稿人手下留情”队**
 
-竞赛官网：https://tianchi.aliyun.com/competition/entrance/531945/rankingList/1
+竞赛官网：https://tianchi.aliyun.com/competition/entrance/531945/tab/292
 
 
 # 1. 篡改任务挑战解读
